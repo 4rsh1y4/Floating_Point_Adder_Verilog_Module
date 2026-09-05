@@ -262,5 +262,5 @@ This project demonstrates:
 ---
 
 # Author
-
-Implemented as part of a Computer Architecture and Microprocessor Laboratory project.
+Dr.Movahedin computer structure course,
+Arshia Noroozi (4rsh1y4)
