@@ -262,6 +262,6 @@ This project demonstrates:
 ---
 
 # Author
-Dr.Movahedin computer structure course,
+Dr.Movahhedin - Computer  Architecture course,
 
 Arshia Noroozi (4rsh1y4)
